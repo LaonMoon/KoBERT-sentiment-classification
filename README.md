@@ -12,4 +12,6 @@ This project recommends emoticons similar to the emoticons used by users, analyz
 
 ### Reference
 
+- [SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT)
+- [naver_review_classifications_pytorch_kobert](https://colab.research.google.com/github/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb)
 - [7가지 감정의 한국어 대화, 'KOBERT'로  다중 분류 모델 만들기 (파이썬/Colab)](https://dinolabs.tistory.com/271?category=1203530)
